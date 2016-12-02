@@ -1,3 +1,5 @@
-name: Example
-description: An example plugin. Use this as the base for your own glorious plugins!
+name: PINO
+description: Your description here
+icon: world
 api: 3
+
